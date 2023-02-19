@@ -1,8 +1,7 @@
 
 
-### Namaste! I'm Anushka!👧
+## Namaste! I'm Anushka!👧
 
- 🔬 Data friendly <br>
  🌱 Entered the Big Data world in 2018 <br>
  👩‍💻 Gained Data Engineering experience for 3.5 years<br>
  ↪️ Drawn towards Data Science and the insights it can provide<br>
