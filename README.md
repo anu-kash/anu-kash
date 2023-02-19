@@ -6,11 +6,11 @@
  
  👩‍💻 Gained Data Engineering experience for 3.5 years<br>
  
- ↪️ Drawn towards Data Science and the insights it can provide<br>
+ ↪️ Drawn towards Data Science and the insights it can provide <br>
  
  📚 Pursuing my masters in Business Analytics at UT Austin<br>
  
- 👀 Eager to collaborate on ML and Data Science projects to fetch actionable insights <br>
+ 👀 Eager to collaborate on ML and Data Science projects to fetch valuable insights <br>
  
  📫 How to reach me - LinkedIn: https://www.linkedin.com/in/anushkaiyer10/
 
@@ -20,6 +20,7 @@
 Here are some ideas to get you started: -->
 
 <!-- 
+Drawn towards Data Science and the business problems  it can provide
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
